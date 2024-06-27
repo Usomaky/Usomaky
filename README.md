@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Usomaky
 - 👀 I’m interested in getting new ideas
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on a project that i can gain experience in
 - 📫 How to reach me 
 
